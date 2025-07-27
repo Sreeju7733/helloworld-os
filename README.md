@@ -1,5 +1,7 @@
 ## 🚀 Building a Bootable "Hello World" OS in Assembly
 
+
+
 > "Most people write *Hello World* in C. I wrote mine in Assembly… and booted it."
 
 > Yes. It's simple. But it's *booted with love*. ❤️
@@ -9,6 +11,8 @@
 ### 🧠 What Is It?
 
 A tiny, minimal operating system that boots directly from a `.img` file, shows a "Hello, World!" message using BIOS interrupts, and displays a cute signature line — all in **16-bit real mode Assembly**.
+
+<img width="3840" height="2160" alt="blog" src="https://github.com/user-attachments/assets/7007e4f8-cadb-416a-a522-d34753a7bbbe" />
 
 ---
 
